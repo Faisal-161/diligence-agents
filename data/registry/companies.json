@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Bluepeak Logistics Ltd",
+    "slug": "bluepeak-logistics",
+    "incorporated": "2009-04-14",
+    "state": "OH",
+    "status": "active",
+    "sanctions_match": false,
+    "registered_agent": "Bluepeak Legal Dept"
+  },
+  {
+    "name": "Northwind Cloud Services LLC",
+    "slug": "northwind-cloud",
+    "incorporated": "2013-02-01",
+    "state": "TX",
+    "status": "active",
+    "sanctions_match": false,
+    "registered_agent": "CT Corporation"
+  },
+  {
+    "name": "Summit Print Co",
+    "slug": "summit-print",
+    "incorporated": "2016-07-22",
+    "state": "NV",
+    "status": "suspended",
+    "sanctions_match": false,
+    "registered_agent": "Owner"
+  },
+  {
+    "name": "Orion Data Labs Inc.",
+    "slug": "orion-data-labs",
+    "incorporated": "2018-09-10",
+    "state": "DE",
+    "status": "active",
+    "sanctions_match": false,
+    "registered_agent": "Registered Agents Inc."
+  },
+  {
+    "name": "Greenleaf Facilities Co.",
+    "slug": "greenleaf-facilities",
+    "incorporated": "2011-03-03",
+    "state": "IL",
+    "status": "active",
+    "sanctions_match": false,
+    "registered_agent": "Greenleaf Facilities Co."
+  },
+  {
+    "name": "Zephyr Consulting LLC",
+    "slug": "zephyr-consulting",
+    "incorporated": "2026-07-28",
+    "state": "WY",
+    "status": "active",
+    "sanctions_match": false,
+    "registered_agent": "Virtual office provider"
+  }
+]
